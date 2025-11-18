@@ -23,8 +23,8 @@ To implement Ridge, Lasso, and ElasticNet regularization models using polynomial
 ```
 /*
 Program to implement Ridge, Lasso, and ElasticNet regularization using pipelines.
-Developed by: DAKSHA C
-RegisterNumber:  212224230048
+Developed by: Karna S
+RegisterNumber:  212222110017
 */
 
 # Importing necessary libraries
